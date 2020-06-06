@@ -3,4 +3,7 @@
   padding-top: 80px;
   padding-bottom: 217px;
   margin: auto; 
+  list-style: none;
+  display: flex;
+  padding-inline-start: 0;
 }
